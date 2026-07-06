@@ -1,0 +1,6 @@
+python-telegram-bot==20.7
+googletrans==4.0.0-rc1
+Pillow==10.1.0
+pytesseract==0.3.10
+requests==2.31.0
+gtts==2.4.0
